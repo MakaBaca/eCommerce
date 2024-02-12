@@ -4,7 +4,6 @@ import com.mak.ecommerce.exception.ProductNotFoundException;
 import com.mak.ecommerce.models.Product;
 import org.springframework.stereotype.Service;
 
-import java.util.Collections;
 import java.util.List;
 
 @Service("productService")

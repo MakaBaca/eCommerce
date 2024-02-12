@@ -6,9 +6,7 @@ import com.mak.ecommerce.externalclients.FakeStoreClient;
 import com.mak.ecommerce.models.Category;
 import com.mak.ecommerce.models.Product;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 import java.util.ArrayList;
 import java.util.List;
